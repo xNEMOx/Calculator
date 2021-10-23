@@ -7,7 +7,7 @@ number2 = input("Enter your 2nd number: ")
 answer = print("Your answer is: ")
 
 
-# calculating process
+# calculation
 if symbol == "+":
     print(int(number1) + int(number2))
 elif symbol == "-":

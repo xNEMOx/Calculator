@@ -1,5 +1,5 @@
 # Calculator
-Simple Calculator.
+Simple written Calculator
 
 Contains:
 ~ Addition
